@@ -3,9 +3,6 @@
 </div>  
   
 
-![dff](undefined)  
-  
-
 ### <div align="center">I'm El-Hussein , a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
