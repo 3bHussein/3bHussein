@@ -82,10 +82,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=3bhussein&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/api?username=3bhussein&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+https://github-readme-stats.vercel.app/api/wakatime
 <br/>  
 
 
