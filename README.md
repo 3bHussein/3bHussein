@@ -83,7 +83,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=3bhussein&show_icons=true&locale=en" alt="3bhussein)
+![](https://github-readme-stats.vercel.app/api?username=3bhussein&show_icons=true&locale=en")
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3bHussein&theme=radical&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3bHussein&theme=radical&hide_border=false)
