@@ -81,7 +81,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=3bhussein&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<br/>  <br/>  
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bhussein&" alt="3bhussein" /></div>  
 
 https://github-readme-stats.vercel.app/api/wakatime
@@ -115,16 +115,3 @@ https://github-readme-stats.vercel.app/api/wakatime
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-////
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/wqdqwd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wqdqwd" /></a><a href="https://ko-fi.com/qdqwd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="qdqwd" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bhussein&show_icons=true&locale=en&layout=compact" alt="3bhussein" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bhussein&show_icons=true&locale=en" alt="3bhussein" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bhussein&" alt="3bhussein" /></p>
-
-
