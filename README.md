@@ -5,7 +5,9 @@
 
 ### <div align="center">I'm El-Hussein , a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
-<h3>About Me <a href="./assets/Aizaz-Ahmad-Resume-v3.2.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
+<a href="./assets/Aizaz-Ahmad-Resume-v3.2.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
+
+  
 - 🌱 I’m currently learning Machine Learning   
   
 
