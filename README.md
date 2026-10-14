@@ -18,16 +18,9 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 ## 🚀 Featured projects
 
-![Featured projects visual cards](./assets/featured-projects.svg)
+<table><tr><td width="50%" align="center"><a href="https://github.com/3bHussein/ProgressXX"><img src="./assets/card-progressx.svg" alt="ProgressX project" width="100%"/></a><br/><a href="https://3bhussein.github.io/ProgressXX-Web/">Live demo ↗</a> · <a href="https://github.com/3bHussein/ProgressXX">Source code</a></td><td width="50%" align="center"><a href="https://3bhussein.github.io/Project-Factory-AI/builder.html"><img src="./assets/card-factory.svg" alt="Project Factory AI" width="100%"/></a><br/><a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Open builder ↗</a></td></tr><tr><td width="50%" align="center"><a href="https://github.com/3bHussein?tab=repositories"><img src="./assets/card-taskm.svg" alt="Task M concept" width="100%"/></a><br/><sub>In development</sub></td><td width="50%" align="center"><a href="https://github.com/3bHussein?tab=repositories"><img src="./assets/card-kali.svg" alt="Kali Ops project" width="100%"/></a><br/><sub>Explore repositories</sub></td></tr></table>
 
-| Project | Source / live experience |
-| :--- | :--- |
-| **ProgressX** — workout, food and progress tracking | [Source](https://github.com/3bHussein/ProgressXX) · [Live web app](https://3bhussein.github.io/ProgressXX-Web/) |
-| **Project Factory AI** — project-building workflow | [Builder](https://3bhussein.github.io/Project-Factory-AI/builder.html) |
-| **Task M** — task manager concept in development | [Browse repositories](https://github.com/3bHussein?tab=repositories) |
-| **Kali Ops** — Linux terminal dashboard | [Browse repositories](https://github.com/3bHussein?tab=repositories) |
-
-<sub>Project artwork is illustrative, not screenshots of running apps. Links to unverified repositories are intentionally not fabricated.</sub>
+<sub>Cards are original illustrative artwork, not screenshots. The last two links open the repository listing until a specific public project link is verified.</sub>
 
 ## 🛠️ Tools & technologies
 
