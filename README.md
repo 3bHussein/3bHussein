@@ -34,9 +34,26 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 <sub>Featured selections are based on repository documentation and project scope, not fabricated GitHub rankings. Illustrations are conceptual rather than screenshots.</sub>
 
-## 🛠️ Tools & technologies
+## 🛠️ My Skill Set
 
-![Technology stack](./assets/tech-stack.svg)
+The stack below reflects the technologies in my existing profile, grouped by area rather than adding unrelated tools.
+
+<table>
+<tr><th align="center">Frontend</th><th align="center">Backend</th><th align="center">DevOps &amp; Cloud</th></tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ps&perline=3" alt="Bootstrap, CSS, HTML, JavaScript and Photoshop" />
+</td>
+<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=js,php,linux,py,git,bash,cs&perline=3" alt="JavaScript, PHP, Linux, Python, Git, Bash and C Sharp" />
+</td>
+<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,git,bash&perline=3" alt="AWS, Google Cloud, Linux, Git and Bash" />
+</td>
+</tr>
+</table>
+
+<sub>These are tools and technologies represented in the earlier profile; icons do not indicate certification or proficiency level. Linux, Git and Bash are cross-cutting skills.</sub>
 
 ## 📊 GitHub activity
 
