@@ -26,21 +26,21 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
+<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=2" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
 <br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a>
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=2" width="100%" alt="Project Factory AI"/></a>
 <br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Live builder ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a>
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=2" width="100%" alt="VIN Decoder Pro"/></a>
 <br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg" width="100%" alt="Kali Ops V1"/></a>
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=2" width="100%" alt="Kali Ops V1"/></a>
 <br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Source code ↗</a>
 </td>
 </tr>
