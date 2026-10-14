@@ -58,9 +58,15 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 ## 🛠️ Tech Stack
 
-<table><tr><td width="33%" valign="top" align="center"><h3>FRONTEND</h3><table><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="bootstrap"/><br/><sub>bootstrap</sub></td><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/><br/><sub>HTML5</sub></td></tr><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/><br/><sub>CSS3</sub></td><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td></tr><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="42" height="42" alt="Photoshop"/><br/><sub>Photoshop</sub></td></tr></table></td><td width="33%" valign="top" align="center"><h3>BACKEND</h3><table><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP"/><br/><sub>PHP</sub></td></tr><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br/><sub>Python</sub></td><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#"/><br/><sub>C#</sub></td></tr><tr></tr></table></td><td width="33%" valign="top" align="center"><h3>DEVOPS & TOOLS</h3><table><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/><br/><sub>Linux</sub></td><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br/><sub>Git</sub></td></tr><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/><br/><sub>Bash</sub></td><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/><br/><sub>AWS</sub></td></tr><tr><td align="center" width="50%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud"/><br/><sub>Google Cloud</sub></td></tr></table></td></tr></table>
+<table><tr>
+<td width="33%" valign="top" align="center"><b>Frontend</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="43" height="43" /></td>
+<td width="33%" valign="top" align="center"><b>Backend</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="43" height="43" /></td>
+<td width="33%" valign="top" align="center"><b>DevOps & Tools</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="43" height="43" /></td>
+</tr></table>
 
-## 📊 GitHub activity
+<sub>Technologies from my original profile · Icons by Devicon</sub>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -70,7 +76,7 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 </div>
 
-## 👋 About me
+## 👋 About Me
 
 I'm El-Hussein, a full-stack developer working remotely since 2018. I build useful software, integrate systems, and automate workflows. My interests include product engineering, Linux operations, and practical DevOps.
 
@@ -82,6 +88,6 @@ I'm El-Hussein, a full-stack developer working remotely since 2018. I build usef
 
 [Connect on LinkedIn](https://linkedin.com/in/elhusseinahmed) · [Browse my work](https://github.com/3bHussein?tab=repositories)
 
-![Profile views](https://komarev.com/ghpvc/?username=3bHussein&style=flat-square&color=0891b2)
+
 
 </div>
