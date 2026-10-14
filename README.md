@@ -19,8 +19,7 @@ Building practical software, intelligent workflows and tools that solve real pro
 ## 🚀 Featured projects — verified repositories
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/Ecu-Warrior-V2"><img src="./assets/card-ecu-warrior.svg" width="100%" alt="ECU Warrior ERP Commerce Suite"/></a><br/><b>ECU Warrior V2</b><br/>Automotive-focused B2B/B2C ERP, CRM, inventory and e-commerce suite.<br/><a href="https://github.com/3bHussein/Ecu-Warrior-V2">Source code ↗</a></td>
-<td width="50%" valign="top"><a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX"/></a><br/><b>ProgressX</b><br/>Workout and nutrition tracking with web and Android builds.<br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX"/></a><br/><b>ProgressX</b><br/>Workout and nutrition tracking with web and Android builds.<br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a><br/><b>Project Factory AI</b><br/>Free-first project factory with review workflows, automated tests and runnable tools.<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Builder ↗</a></td>
 <td width="50%" valign="top"><a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a><br/><b>VIN Decoder Pro</b><br/>Cross-platform vehicle identification number decoding tool.<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a></td></tr>
 </table>
