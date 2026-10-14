@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-v3.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-v3.svg"/><img src="./assets/profile-banner-v3.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-v3.svg?v=4"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-v3.svg"/><img src="./assets/profile-banner-v3.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
@@ -8,12 +8,13 @@
 
 </div>
 
-<table><tr>
-<td width="25%" align="center"><b>⌘ Clean Code</b><br/><sub>Maintainable solutions</sub></td>
-<td width="25%" align="center"><b>◇ Real Projects</b><br/><sub>From ideas to products</sub></td>
-<td width="25%" align="center"><b>⚙ Automation</b><br/><sub>Smarter workflows</sub></td>
-<td width="25%" align="center"><b>↗ Always Learning</b><br/><sub>Practical engineering</sub></td>
-</tr></table>
+<div align="center">
+
+**BUILD** &nbsp;·&nbsp; **SOLVE** &nbsp;·&nbsp; **AUTOMATE** &nbsp;·&nbsp; **SHIP**
+
+<sub>Thoughtful engineering · Useful products · Reliable workflows</sub>
+
+</div>
 
 <div align="center">
 
@@ -22,6 +23,8 @@
 </div>
 
 ## 🚀 Featured Projects
+
+<sub>Selected work — each card links to a real repository.</sub>
 
 <table>
 <tr>
@@ -57,6 +60,8 @@
 
 ## 🛠️ Tech Stack
 
+<sub>Technologies I use to build, integrate and maintain practical software.</sub>
+
 <table><tr>
 <td width="33%" valign="top" align="center"><b>Frontend</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="43" height="43" /></td>
 <td width="33%" valign="top" align="center"><b>Backend</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="43" height="43" /></td>
@@ -66,6 +71,8 @@
 <sub>Technologies from my original profile · Icons by Devicon</sub>
 
 ## 📊 GitHub Activity
+
+<sub>Public development activity. The official GitHub profile remains the source of truth.</sub>
 
 <div align="center">
 
