@@ -20,9 +20,11 @@
 
 <div align="center">
 
-[**Projects**](#-featured-projects) · [**Tech Stack**](#%EF%B8%8F-tech-stack) · [**GitHub Activity**](#-github-activity) · [**About**](#-about-me)
+[**Projects**](#featured-projects) · [**Tech Stack**](#tech-stack) · [**GitHub Activity**](#github-activity) · [**About**](#about-me)
 
 </div>
+
+<a id="featured-projects"></a>
 
 ## 🚀 Featured Projects
 
@@ -68,6 +70,8 @@
 
 </details>
 
+<a id="tech-stack"></a>
+
 ## 🛠️ Tech Stack
 
 <sub>A practical toolkit for building, connecting and shipping software.</sub>
@@ -83,6 +87,8 @@
 
 <sub>Tool icons by Devicon · Core technologies from my original profile</sub>
 
+<a id="github-activity"></a>
+
 ## 📊 GitHub Activity
 
 <sub>Public development activity. The official GitHub profile remains the source of truth.</sub>
@@ -94,6 +100,8 @@
 <a href="https://github.com/3bHussein?tab=overview"><strong>View live activity on GitHub ↗</strong></a>
 
 </div>
+
+<a id="about-me"></a>
 
 ## 👋 About Me
 
