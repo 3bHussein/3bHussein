@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-v3.svg?v=4"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-v3.svg"/><img src="./assets/profile-banner-v3.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
+<img src="./assets/profile-banner-v3.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
@@ -30,21 +30,21 @@
 <tr>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=2" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
-<br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a>
+<br/><sub>Fitness tracking · Nutrition · Personal analytics</sub><br/><a href="https://github.com/3bHussein/ProgressX"><b>Explore repository ↗</b></a>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=2" width="100%" alt="Project Factory AI"/></a>
-<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Live builder ↗</a>
+<br/><sub>Project workflows · AI-assisted building</sub><br/><a href="https://github.com/3bHussein/Project-Factory-AI"><b>Repository ↗</b></a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html"><b>Live builder ↗</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=2" width="100%" alt="VIN Decoder Pro"/></a>
-<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a>
+<br/><sub>Automotive tools · Vehicle identification</sub><br/><a href="https://github.com/3bHussein/vin-decoder-pro"><b>Explore repository ↗</b></a>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=2" width="100%" alt="Kali Ops V1"/></a>
-<br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Source code ↗</a>
+<br/><sub>Linux tooling · Terminal dashboards</sub><br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><b>Explore repository ↗</b></a>
 </td>
 </tr>
 </table>
@@ -84,7 +84,9 @@
 
 ## 👋 About Me
 
-I'm El-Hussein, a full-stack developer focused on building usable products, connecting systems and automating repetitive work. My interests include product engineering, Linux operations and practical DevOps. I prefer shipping useful software over showcasing unfinished concepts.
+I’m El-Hussein, a full-stack developer and product-minded engineer. I enjoy turning complicated workflows into straightforward, useful tools — from web applications and integrations to automation and Linux utilities.
+
+**What I focus on:** Practical products · Clean integrations · Automation · Continuous improvement
 
 ---
 
