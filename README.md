@@ -2,10 +2,6 @@
 
 ![EL-HUSSEIN BADAWY — Developer Portfolio](https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/profile-banner.svg?v=20261014b)
 
-### Full-Stack Developer · Product Engineering · Automation
-
-Building practical software, intelligent workflows and tools that solve real problems.
-
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
 [![Dev.to](https://img.shields.io/badge/DEV.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/3bhussein)
@@ -24,25 +20,21 @@ Building practical software, intelligent workflows and tools that solve real pro
 <tr>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/ProgressX"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-progressx.svg?v=20261014b" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
-<br/><b>ProgressX</b><br/>Workout and nutrition tracking · Web &amp; Android
-<br/><a href="https://github.com/3bHussein/ProgressX">Explore repository ↗</a>
+<br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/Project-Factory-AI"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-factory.svg?v=20261014b" width="100%" alt="Project Factory AI"/></a>
-<br/><b>Project Factory AI</b><br/>Developer automation and project workflows
-<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Repository ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Builder ↗</a>
+<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Live builder ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/vin-decoder-pro"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-vin-decoder.svg?v=20261014b" width="100%" alt="VIN Decoder Pro"/></a>
-<br/><b>VIN Decoder Pro</b><br/>Cross-platform vehicle VIN decoding
-<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Explore repository ↗</a>
+<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-kali.svg?v=20261014b" width="100%" alt="Kali Ops V1"/></a>
-<br/><b>Kali Ops V1</b><br/>Linux terminal operations command center
-<br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Explore repository ↗</a>
+<br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Source code ↗</a>
 </td>
 </tr>
 </table>
@@ -70,9 +62,9 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 <div align="center">
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=3bHussein&show_icons=true&hide_border=true&bg_color=080f1b&title_color=67e8f9&text_color=cbd5e1&icon_color=22d3ee)
+<img src="https://github-readme-stats.vercel.app/api?username=3bHussein&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1&amp;icon_color=22d3ee" alt="GitHub statistics" height="165" />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&layout=compact&hide_border=true&bg_color=080f1b&title_color=67e8f9&text_color=cbd5e1)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&amp;layout=compact&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1" alt="Top languages" height="165" />
 
 </div>
 
