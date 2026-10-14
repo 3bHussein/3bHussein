@@ -1,6 +1,6 @@
 <div align="center">
 
-![EL-HUSSEIN BADAWY — Developer Portfolio](https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/profile-banner.svg?v=20261014c)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg"/><img src="./assets/profile-banner.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
@@ -20,21 +20,21 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/ProgressX"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-progressx.svg?v=20261014b" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
+<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
 <br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-factory.svg?v=20261014b" width="100%" alt="Project Factory AI"/></a>
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a>
 <br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Live builder ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-vin-decoder.svg?v=20261014b" width="100%" alt="VIN Decoder Pro"/></a>
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a>
 <br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-kali.svg?v=20261014b" width="100%" alt="Kali Ops V1"/></a>
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg" width="100%" alt="Kali Ops V1"/></a>
 <br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Source code ↗</a>
 </td>
 </tr>
@@ -63,9 +63,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=3bHussein&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1&amp;icon_color=22d3ee" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=3bHussein&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1&amp;icon_color=22d3ee" alt="GitHub stats (third-party service)" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&amp;layout=compact&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1" alt="Top repository languages (third-party service)" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&amp;layout=compact&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1" alt="Top languages" height="165" />
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://ghchart.rshah.org/0891b2/3bHussein" alt="GitHub contribution history" width="95%"/></a>
+
+<sub>Activity widgets depend on third-party services. GitHub's native contribution graph is available on the profile Overview page.</sub>
 
 </div>
 
