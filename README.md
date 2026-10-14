@@ -16,26 +16,47 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 <table><tr><td align="center">⌘<br/><b>Clean code</b><br/>Maintainable solutions</td><td align="center">◈<br/><b>Real projects</b><br/>From ideas to products</td><td align="center">⚙<br/><b>Automation</b><br/>Smarter workflows</td><td align="center">↗<br/><b>Always learning</b><br/>Practical experiments</td></tr></table>
 
-## 🚀 Featured projects — verified repositories
+## 🚀 Featured Projects
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX"/></a><br/><b>ProgressX</b><br/>Workout and nutrition tracking with web and Android builds.<br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a><br/><b>Project Factory AI</b><br/>Free-first project factory with review workflows, automated tests and runnable tools.<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Builder ↗</a></td>
-<td width="50%" valign="top"><a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a><br/><b>VIN Decoder Pro</b><br/>Cross-platform vehicle identification number decoding tool.<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a></td></tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
+<br/><b>ProgressX</b><br/>Workout and nutrition tracking · Web &amp; Android
+<br/><a href="https://github.com/3bHussein/ProgressX">Explore repository ↗</a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a>
+<br/><b>Project Factory AI</b><br/>Developer automation and project workflows
+<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Repository ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Builder ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a>
+<br/><b>VIN Decoder Pro</b><br/>Cross-platform vehicle VIN decoding
+<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Explore repository ↗</a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg" width="100%" alt="Kali Ops V1"/></a>
+<br/><b>Kali Ops V1</b><br/>Linux terminal operations command center
+<br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Explore repository ↗</a>
+</td>
+</tr>
 </table>
 
-### More real projects
+<details>
+<summary><b>More projects</b></summary>
 
-- [**3B Nexosuite**](https://github.com/3bHussein/3B-nexosuite) — PHP/MySQL commerce and ERP workflows.
-- [**Kali Ops V1**](https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux) — Bash/tmux terminal monitoring command center.
-- [**Automax Academy**](https://github.com/3bHussein/Automax-Academy) — training portal and community forum features.
-- [**Bil Hana**](https://github.com/3bHussein/Bil_Hana) — bilingual Egyptian recipe website.
+- [3B Nexosuite](https://github.com/3bHussein/3B-nexosuite) — commerce and ERP workflows
+- [Automax Academy](https://github.com/3bHussein/Automax-Academy) — training and community portal
+- [Bil Hana](https://github.com/3bHussein/Bil_Hana) — bilingual Egyptian recipes
 
-<sub>Featured selections are based on repository documentation and project scope, not fabricated GitHub rankings. Illustrations are conceptual rather than screenshots.</sub>
+</details>
 
 ## 🛠️ Tech stack
 
-![Technology stack — original dark cyan card design](./assets/tech-stack.svg)
+<img src="./assets/tech-stack.svg" alt="Frontend, Backend and DevOps technology cards" width="100%"/>
 
 <sub>Frontend: Bootstrap, HTML5, CSS3, JavaScript, Photoshop · Backend: JavaScript, PHP, Python, C# · DevOps & tools: Linux, Git, Bash, AWS, Google Cloud.</sub>
 
