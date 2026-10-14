@@ -10,9 +10,11 @@
 
 <div align="center">
 
-**BUILD** &nbsp;·&nbsp; **SOLVE** &nbsp;·&nbsp; **AUTOMATE** &nbsp;·&nbsp; **SHIP**
+### Turning ideas into working products.
 
-<sub>Thoughtful engineering · Useful products · Reliable workflows</sub>
+**BUILD** &nbsp; / &nbsp; **SOLVE** &nbsp; / &nbsp; **AUTOMATE** &nbsp; / &nbsp; **SHIP**
+
+<sub>Product engineering · Web applications · Developer tools · Practical automation</sub>
 
 </div>
 
@@ -118,10 +120,12 @@ I’m El-Hussein, a full-stack developer and product-minded engineer. I enjoy tu
 
 <div align="center">
 
-**Let's build something useful.**
+### Have an idea worth building?
 
-[Connect on LinkedIn](https://linkedin.com/in/elhusseinahmed) · [Browse my work](https://github.com/3bHussein?tab=repositories)
+I enjoy collaborating on practical software, useful tools and automation projects.
 
+[**Explore repositories ↗**](https://github.com/3bHussein?tab=repositories) &nbsp;·&nbsp; [**Connect on LinkedIn ↗**](https://linkedin.com/in/elhusseinahmed)
 
+<sub>EL-HUSSEIN BADAWY &nbsp; / &nbsp; BUILD WITH PURPOSE</sub>
 
 </div>
