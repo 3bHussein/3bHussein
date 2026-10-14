@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<a href="https://github.com/3bHussein?tab=overview"><img src="https://ghchart.rshah.org/168b8c/3bHussein" alt="Live GitHub contribution calendar for 3bHussein" width="96%"/></a>
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3bHussein&amp;theme=github_dark" alt="GitHub activity timeline in dark theme for 3bHussein" width="96%"/></a>
 
 <a href="https://github.com/3bHussein?tab=overview">View official contribution activity ↗</a>
 
