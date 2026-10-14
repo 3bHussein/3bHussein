@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210" role="img" aria-label="Developer terminal illustration">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2b"/><stop offset="1" stop-color="#172f3d"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#87bac7" stroke-opacity=".055" fill="none"/></pattern></defs>
+<rect width="480" height="210" rx="12" fill="url(#bg)"/><rect width="480" height="210" rx="12" fill="url(#g)"/><rect x="1" y="1" width="478" height="208" rx="11" stroke="#3c6371" fill="none"/>
+<rect x="22" y="23" width="436" height="165" rx="9" fill="#0c1722" stroke="#426777"/><path d="M22 51H458" stroke="#426777"/><circle cx="42" cy="38" r="4" fill="#b77e82"/><circle cx="57" cy="38" r="4" fill="#b6a478"/><circle cx="72" cy="38" r="4" fill="#77ad9f"/><text x="174" y="42" fill="#8eb7c3" font-family="monospace" font-size="12">developer@workspace</text>
+<text x="43" y="84" fill="#7fc1cb" font-family="monospace" font-size="16">$ git status</text><text x="43" y="110" fill="#dce8ec" font-family="monospace" font-size="15">On branch: building</text><text x="43" y="139" fill="#8dc1bb" font-family="monospace" font-size="15">✓ code  ✓ automate  ✓ ship</text><text x="43" y="168" fill="#c9dce2" font-family="monospace" font-size="15">$ _</text><path d="M80 163h10" stroke="#86c5cf" stroke-width="2"/>
+<path d="M388 80l15 12-15 12M426 80l-15 12 15 12" stroke="#5d98a6" stroke-width="3" fill="none" opacity=".65"/>
+</svg>
