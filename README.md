@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg?v=20261014d"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg?v=20261014d"/><img src="./assets/profile-banner.svg?v=20261014d" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-v3.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-v3.svg"/><img src="./assets/profile-banner-v3.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
@@ -69,11 +69,9 @@
 
 <div align="center">
 
-<a href="https://github.com/3bHussein?tab=overview"><img src="https://img.shields.io/badge/VIEW_LIVE_GITHUB_ACTIVITY-Profile_Overview-3e6678?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View live GitHub contribution activity on the official profile"/></a>
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://ghchart.rshah.org/537f88/3bHussein" alt="Live GitHub contribution calendar for 3bHussein" width="96%"/></a>
 
-<a href="https://github.com/3bHussein?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-Source_Code-344f60?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse actual public repositories"/></a>
-
-<sub>The official GitHub contribution calendar updates automatically on the profile Overview page.</sub>
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://img.shields.io/badge/View_official_GitHub_activity-Profile_Overview-365669?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View official GitHub activity"/></a>
 
 </div>
 
