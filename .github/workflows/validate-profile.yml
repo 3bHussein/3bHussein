@@ -8,6 +8,8 @@ on:
       - assets/**
       - .github/workflows/validate-profile.yml
   workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * 1"
 permissions:
   contents: read
 jobs:
