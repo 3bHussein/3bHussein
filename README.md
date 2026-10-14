@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">\n\n![El-Hussein Badawy developer banner](./assets/profile-banner.svg)\n
 
 # EL-HUSSEIN BADAWY
 ### Full-Stack Developer · Product Engineering · Automation
