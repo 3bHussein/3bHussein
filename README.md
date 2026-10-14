@@ -1,6 +1,6 @@
 <div align="center">
 
-![EL-HUSSEIN BADAWY — Developer Portfolio](https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/profile-banner.svg?v=20261014b)
+![EL-HUSSEIN BADAWY — Developer Portfolio](https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/profile-banner.svg?v=20261014c)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
@@ -8,11 +8,12 @@
 
 </div>
 
-<div align="center">
-
-**BUILD** &nbsp; • &nbsp; **SOLVE** &nbsp; • &nbsp; **AUTOMATE** &nbsp; • &nbsp; **REPEAT**
-
-</div>
+<table><tr>
+<td width="25%" align="center"><b>⌘ Clean Code</b><br/><sub>Maintainable solutions</sub></td>
+<td width="25%" align="center"><b>◇ Real Projects</b><br/><sub>From ideas to products</sub></td>
+<td width="25%" align="center"><b>⚙ Automation</b><br/><sub>Smarter workflows</sub></td>
+<td width="25%" align="center"><b>↗ Always Learning</b><br/><sub>Practical engineering</sub></td>
+</tr></table>
 
 ## 🚀 Featured Projects
 
@@ -70,7 +71,7 @@
 
 ## 👋 About Me
 
-I'm El-Hussein, a full-stack developer working remotely since 2018. I build useful software, integrate systems, and automate workflows. My interests include product engineering, Linux operations, and practical DevOps.
+I'm El-Hussein, a full-stack developer focused on building usable products, connecting systems and automating repetitive work. My interests include product engineering, Linux operations and practical DevOps. I prefer shipping useful software over showcasing unfinished concepts.
 
 ---
 
