@@ -69,9 +69,9 @@
 
 <div align="center">
 
-<a href="https://github.com/3bHussein?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3bHussein&amp;theme=github_dark" alt="GitHub activity timeline in dark theme for 3bHussein" width="96%"/></a>
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3bHussein&amp;theme=github_dark" alt="GitHub activity from public contributions, dark theme (external service)" width="96%"/></a>
 
-<a href="https://github.com/3bHussein?tab=overview">View official contribution activity ↗</a>
+<a href="https://github.com/3bHussein?tab=overview"><strong>View live activity on GitHub ↗</strong></a>
 
 </div>
 
