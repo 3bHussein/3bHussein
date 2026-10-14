@@ -31,22 +31,30 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=7" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
-<br/><sub>Fitness tracking · Nutrition · Personal analytics</sub><br/><a href="https://github.com/3bHussein/ProgressX"><b>Explore repository ↗</b></a>
+<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=7" width="100%" alt="ProgressX project illustration"/></a>
+<p><strong>ProgressX</strong></p>
+<p><sub>Fitness tracking · Nutrition · Personal analytics</sub></p>
+<p><a href="https://github.com/3bHussein/ProgressX">Repository ↗</a></p>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=7" width="100%" alt="Project Factory AI"/></a>
-<br/><sub>Project workflows · AI-assisted building</sub><br/><a href="https://github.com/3bHussein/Project-Factory-AI"><b>Repository ↗</b></a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html"><b>Live builder ↗</b></a>
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=7" width="100%" alt="Project Factory AI project illustration"/></a>
+<p><strong>Project Factory AI</strong></p>
+<p><sub>Project workflows · AI-assisted building</sub></p>
+<p><a href="https://github.com/3bHussein/Project-Factory-AI">Repository ↗</a> &nbsp;·&nbsp; <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Live demo ↗</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=7" width="100%" alt="VIN Decoder Pro"/></a>
-<br/><sub>Automotive tools · Vehicle identification</sub><br/><a href="https://github.com/3bHussein/vin-decoder-pro"><b>Explore repository ↗</b></a>
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=7" width="100%" alt="VIN Decoder Pro project illustration"/></a>
+<p><strong>VIN Decoder Pro</strong></p>
+<p><sub>Automotive tools · Vehicle identification</sub></p>
+<p><a href="https://github.com/3bHussein/vin-decoder-pro">Repository ↗</a></p>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=7" width="100%" alt="Kali Ops V1"/></a>
-<br/><sub>Linux tooling · Terminal dashboards</sub><br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><b>Explore repository ↗</b></a>
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=7" width="100%" alt="Kali Ops V1 project illustration"/></a>
+<p><strong>Kali Ops V1</strong></p>
+<p><sub>Linux tooling · Terminal dashboards</sub></p>
+<p><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Repository ↗</a></p>
 </td>
 </tr>
 </table>
