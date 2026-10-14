@@ -1,6 +1,6 @@
 <div align="center">
 
-![EL-HUSSEIN BADAWY — Developer Portfolio](./assets/profile-banner.svg)
+![EL-HUSSEIN BADAWY — Developer Portfolio](https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/profile-banner.svg?v=20261014b)
 
 ### Full-Stack Developer · Product Engineering · Automation
 
@@ -23,24 +23,24 @@ Building practical software, intelligent workflows and tools that solve real pro
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
+<a href="https://github.com/3bHussein/ProgressX"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-progressx.svg?v=20261014b" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
 <br/><b>ProgressX</b><br/>Workout and nutrition tracking · Web &amp; Android
 <br/><a href="https://github.com/3bHussein/ProgressX">Explore repository ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a>
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-factory.svg?v=20261014b" width="100%" alt="Project Factory AI"/></a>
 <br/><b>Project Factory AI</b><br/>Developer automation and project workflows
 <br/><a href="https://github.com/3bHussein/Project-Factory-AI">Repository ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Builder ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a>
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-vin-decoder.svg?v=20261014b" width="100%" alt="VIN Decoder Pro"/></a>
 <br/><b>VIN Decoder Pro</b><br/>Cross-platform vehicle VIN decoding
 <br/><a href="https://github.com/3bHussein/vin-decoder-pro">Explore repository ↗</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg" width="100%" alt="Kali Ops V1"/></a>
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/card-kali.svg?v=20261014b" width="100%" alt="Kali Ops V1"/></a>
 <br/><b>Kali Ops V1</b><br/>Linux terminal operations command center
 <br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Explore repository ↗</a>
 </td>
@@ -58,7 +58,7 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 ## 🛠️ Tech Stack
 
-<img src="./assets/tech-stack.svg" alt="Frontend, Backend and DevOps technology cards" width="100%"/>
+<img src="https://raw.githubusercontent.com/3bHussein/3bHussein/design/visual-profile-v2/assets/tech-stack.svg?v=20261014b" alt="Frontend, Backend and DevOps technology cards" width="100%"/>
 
 
 
