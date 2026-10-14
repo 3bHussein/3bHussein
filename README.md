@@ -16,11 +16,23 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 <table><tr><td align="center">⌘<br/><b>Clean code</b><br/>Maintainable solutions</td><td align="center">◈<br/><b>Real projects</b><br/>From ideas to products</td><td align="center">⚙<br/><b>Automation</b><br/>Smarter workflows</td><td align="center">↗<br/><b>Always learning</b><br/>Practical experiments</td></tr></table>
 
-## 🚀 Featured projects
+## 🚀 Featured projects — verified repositories
 
-<table><tr><td width="50%" align="center"><a href="https://github.com/3bHussein/ProgressXX"><img src="./assets/card-progressx.svg" alt="ProgressX project" width="100%"/></a><br/><a href="https://3bhussein.github.io/ProgressXX-Web/">Live demo ↗</a> · <a href="https://github.com/3bHussein/ProgressXX">Source code</a></td><td width="50%" align="center"><a href="https://3bhussein.github.io/Project-Factory-AI/builder.html"><img src="./assets/card-factory.svg" alt="Project Factory AI" width="100%"/></a><br/><a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Open builder ↗</a></td></tr><tr><td width="50%" align="center"><a href="https://github.com/3bHussein?tab=repositories"><img src="./assets/card-taskm.svg" alt="Task M concept" width="100%"/></a><br/><sub>In development</sub></td><td width="50%" align="center"><a href="https://github.com/3bHussein?tab=repositories"><img src="./assets/card-kali.svg" alt="Kali Ops project" width="100%"/></a><br/><sub>Explore repositories</sub></td></tr></table>
+<table>
+<tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/Ecu-Warrior-V2"><img src="./assets/card-ecu-warrior.svg" width="100%" alt="ECU Warrior ERP Commerce Suite"/></a><br/><b>ECU Warrior V2</b><br/>Automotive-focused B2B/B2C ERP, CRM, inventory and e-commerce suite.<br/><a href="https://github.com/3bHussein/Ecu-Warrior-V2">Source code ↗</a></td>
+<td width="50%" valign="top"><a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg" width="100%" alt="ProgressX"/></a><br/><b>ProgressX</b><br/>Workout and nutrition tracking with web and Android builds.<br/><a href="https://github.com/3bHussein/ProgressX">Source code ↗</a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg" width="100%" alt="Project Factory AI"/></a><br/><b>Project Factory AI</b><br/>Free-first project factory with review workflows, automated tests and runnable tools.<br/><a href="https://github.com/3bHussein/Project-Factory-AI">Source code ↗</a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Builder ↗</a></td>
+<td width="50%" valign="top"><a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg" width="100%" alt="VIN Decoder Pro"/></a><br/><b>VIN Decoder Pro</b><br/>Cross-platform vehicle identification number decoding tool.<br/><a href="https://github.com/3bHussein/vin-decoder-pro">Source code ↗</a></td></tr>
+</table>
 
-<sub>Cards are original illustrative artwork, not screenshots. The last two links open the repository listing until a specific public project link is verified.</sub>
+### More real projects
+
+- [**3B Nexosuite**](https://github.com/3bHussein/3B-nexosuite) — PHP/MySQL commerce and ERP workflows.
+- [**Kali Ops V1**](https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux) — Bash/tmux terminal monitoring command center.
+- [**Automax Academy**](https://github.com/3bHussein/Automax-Academy) — training portal and community forum features.
+- [**Bil Hana**](https://github.com/3bHussein/Bil_Hana) — bilingual Egyptian recipe website.
+
+<sub>Featured selections are based on repository documentation and project scope, not fabricated GitHub rankings. Illustrations are conceptual rather than screenshots.</sub>
 
 ## 🛠️ Tools & technologies
 
