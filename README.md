@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<a href="https://github.com/3bHussein?tab=overview"><img src="https://ghchart.rshah.org/168b8c/3bHussein" alt="Live GitHub contribution calendar for 3bHussein" width="96%"/></a>
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://github-readme-activity-graph.vercel.app/graph?username=3bHussein&amp;bg_color=0d1117&amp;color=9eb4c2&amp;line=168b8c&amp;point=5a8994&amp;area=true&amp;area_color=123c43&amp;hide_border=true" alt="Live GitHub activity graph for 3bHussein, dark background" width="96%"/></a>
 
 <a href="https://github.com/3bHussein?tab=overview"><img src="https://img.shields.io/badge/View_official_GitHub_activity-Profile_Overview-365669?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View official GitHub activity"/></a>
 
