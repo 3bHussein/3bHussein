@@ -42,6 +42,15 @@ jobs:
           assert "ghchart.rshah.org" not in readme, "Old white-background heatmap must not return"
           assert "github_dark" in readme, "Activity should keep dark theme"
           assert "https://github.com/3bHussein?tab=overview" in readme, "Official activity fallback missing"
+          # Catch accidental oversized assets and missing responsive dimensions.
+          for file in Path("assets").glob("*.svg"):
+              assert file.stat().st_size < 200_000, f"SVG too large: {file}"
+              root = ET.parse(file).getroot()
+              assert root.attrib.get("viewBox"), f"SVG needs viewBox for responsive scaling: {file}"
+          for expected in ["profile-banner-v3.svg", "card-progressx.svg", "card-factory.svg", "card-vin-decoder.svg", "card-kali.svg"]:
+              assert expected in readme, f"Expected visual asset missing from README: {expected}"
+          assert 'width="100%"' in readme, "Expected responsive image widths missing"
+          print("Checked responsive SVG viewBoxes, size limits, and essential visual assets.")
           print(f"Validated {len(assets)} referenced images and all SVG files.")
       - name: Check external image endpoints
         shell: bash
