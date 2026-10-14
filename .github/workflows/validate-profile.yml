@@ -1,0 +1,40 @@
+name: Validate profile README
+on:
+  push:
+    branches: [design/visual-profile-v2]
+  pull_request:
+    paths:
+      - README.md
+      - assets/**
+      - .github/workflows/validate-profile.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check README assets and SVG XML
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          import xml.etree.ElementTree as ET
+          readme = Path("README.md").read_text(encoding="utf-8")
+          assets = re.findall(r'(?:src|srcset)="(\./assets/[^"]+)"', readme)
+          assets += re.findall(r'!\[[^]]*\]\((\./assets/[^)]+)\)', readme)
+          assert assets, "No local assets found"
+          for asset in assets:
+              file = Path(asset.split("?")[0])
+              assert file.is_file(), f"Missing image: {file}"
+              if file.suffix == ".svg":
+                  ET.parse(file)
+          for file in Path("assets").glob("*.svg"):
+              ET.parse(file)
+          for heading in ["Featured Projects", "Tech Stack", "GitHub Activity", "About Me"]:
+              assert heading in readme, f"Missing section: {heading}"
+          for repo in ["ProgressX", "Project-Factory-AI", "vin-decoder-pro", "Cinematic-terminal-command-center-for-Kali-Linux"]:
+              assert repo in readme, f"Missing project: {repo}"
+          assert "ECU Warrior V2" not in readme
+          print(f"Validated {len(assets)} referenced images and all SVG files.")
