@@ -29,21 +29,21 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=2" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
+<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=7" width="100%" alt="ProgressX workout and nutrition tracker"/></a>
 <br/><sub>Fitness tracking · Nutrition · Personal analytics</sub><br/><a href="https://github.com/3bHussein/ProgressX"><b>Explore repository ↗</b></a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=2" width="100%" alt="Project Factory AI"/></a>
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=7" width="100%" alt="Project Factory AI"/></a>
 <br/><sub>Project workflows · AI-assisted building</sub><br/><a href="https://github.com/3bHussein/Project-Factory-AI"><b>Repository ↗</b></a> · <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html"><b>Live builder ↗</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=2" width="100%" alt="VIN Decoder Pro"/></a>
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=7" width="100%" alt="VIN Decoder Pro"/></a>
 <br/><sub>Automotive tools · Vehicle identification</sub><br/><a href="https://github.com/3bHussein/vin-decoder-pro"><b>Explore repository ↗</b></a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=2" width="100%" alt="Kali Ops V1"/></a>
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=7" width="100%" alt="Kali Ops V1"/></a>
 <br/><sub>Linux tooling · Terminal dashboards</sub><br/><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><b>Explore repository ↗</b></a>
 </td>
 </tr>
