@@ -60,15 +60,41 @@
 
 ## 🛠️ Tech Stack
 
-<sub>Technologies I use to build, integrate and maintain practical software.</sub>
+<sub>A practical toolkit for building, connecting and shipping software.</sub>
 
-<table><tr>
-<td width="33%" valign="top" align="center"><b>Frontend</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="43" height="43" /></td>
-<td width="33%" valign="top" align="center"><b>Backend</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="43" height="43" /></td>
-<td width="33%" valign="top" align="center"><b>DevOps & Tools</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="43" height="43" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="43" height="43" /></td>
-</tr></table>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-<sub>Technologies from my original profile · Icons by Devicon</sub>
+**FRONTEND**
+
+<sub>Interfaces & experiences</sub>
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="36" height="36"/></p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**BACKEND**
+
+<sub>Logic & integrations</sub>
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/></p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**DEVOPS & TOOLS**
+
+<sub>Systems & delivery</sub>
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="36" height="36"/></p>
+
+</td>
+</tr>
+</table>
+
+<sub>Tool icons by Devicon · Core technologies from my original profile</sub>
 
 ## 📊 GitHub Activity
 
