@@ -1,123 +1,70 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm El-Hussein , a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
-  
-<a href="./ELHussein Badawy.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
+# EL-HUSSEIN BADAWY
+### Full-Stack Developer · Product Engineering · Automation
 
-  
-- 🌱 I’m currently learning Machine Learning   
-  
+**Building practical software, intelligent workflows, and tools that solve real problems.**
 
-- ❓ Ask me about anything related to Tech stack and related technologies  
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
+[![Dev.to](https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/3bhussein)
 
--  A Codewarrior [![Codewars Badge](https://www.codewars.com/users/3bHussein/badges/micro)](https://www.codewars.com/users/3bHussein)
- 
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 👋 About me
 
+I'm El-Hussein, a full-stack developer working remotely since 2018. I enjoy turning ideas into usable products, integrating systems, improving reliability, and automating repetitive work.
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+- 🧩 Focus: product engineering, full-stack development, automation and developer tooling
+- 🐧 Interested in Linux, system operations and practical DevOps
+- 🌱 Always learning, experimenting and building
+
+## 🚀 Featured projects
+
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **ProgressX** | Workout, nutrition and progress tracking | [Repository](https://github.com/3bHussein/ProgressXX) · [Web app](https://3bhussein.github.io/ProgressXX-Web/) |
+| **Project Factory AI** | Project-building workflow and developer automation | [Builder](https://3bhussein.github.io/Project-Factory-AI/builder.html) |
+| **Task M** | Task-management project in development | [GitHub projects](https://github.com/3bHussein?tab=repositories) |
+| **Kali Ops** | Terminal-based Linux operations dashboard | [GitHub projects](https://github.com/3bHussein?tab=repositories) |
+
+> Project descriptions reflect current development work. Demo links are provided only where known; availability and production readiness are not implied.
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=A5B4FC)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=38BDF8)
+
 </div>
 
-</td><td valign="top" width="33%">
+## 📊 GitHub activity
 
+<div align="center">
 
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=3bHussein&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE)
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1)
+
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/3bhussein" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/elhusseinahmed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/3bhussein" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=3bHussein&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=3bHussein&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
-
-https://github-readme-stats.vercel.app/api/wakatime
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=3bhussein&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+### Let's build something useful.
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/3bhussein" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+[Connect on LinkedIn](https://linkedin.com/in/elhusseinahmed) · [Browse repositories](https://github.com/3bHussein?tab=repositories)
 
+![Profile views](https://komarev.com/ghpvc/?username=3bHussein&style=flat-square&color=0891b2)
 
+</div>
