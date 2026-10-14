@@ -99,7 +99,7 @@
 
 <table><tr>
 <td width="62%" align="center" valign="middle"><a href="https://github.com/3bHussein?tab=overview"><img src="https://streak-stats.demolab.com/?user=3bHussein&amp;theme=dark&amp;background=101D2B&amp;border=3C6371&amp;stroke=355868&amp;ring=79B8C3&amp;fire=79B8C3&amp;currStreakNum=E0EAF0&amp;sideNums=E0EAF0&amp;currStreakLabel=93BDC8&amp;sideLabels=93BDC8&amp;dates=A5BBC4" width="100%" alt="GitHub total contributions, current streak and longest streak"/></a></td>
-<td width="38%" align="center" valign="middle"><img src="./assets/activity-terminal.svg" width="100%" alt="Navy and cyan developer terminal artwork"/></td>
+<td width="38%" align="center" valign="middle"><img src="./assets/a_cinematic_ultra_detailed_neon_cyberpunk_night.png" width="100%" alt="Navy and cyan developer terminal artwork"/></td>
 </tr></table>
 
 <a href="https://github.com/3bHussein?tab=overview"><strong>View live activity on GitHub ↗</strong></a>
