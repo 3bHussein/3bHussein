@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg"/><img src="./assets/profile-banner.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg?v=20261014d"/><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg?v=20261014d"/><img src="./assets/profile-banner.svg?v=20261014d" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/></picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
@@ -69,12 +69,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=3bHussein&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1&amp;icon_color=22d3ee" alt="GitHub stats (third-party service)" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&amp;layout=compact&amp;hide_border=true&amp;bg_color=080f1b&amp;title_color=67e8f9&amp;text_color=cbd5e1" alt="Top repository languages (third-party service)" height="165"/>
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://img.shields.io/badge/VIEW_LIVE_GITHUB_ACTIVITY-Profile_Overview-3e6678?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View live GitHub contribution activity on the official profile"/></a>
 
-<a href="https://github.com/3bHussein?tab=overview"><img src="https://ghchart.rshah.org/0891b2/3bHussein" alt="GitHub contribution history" width="95%"/></a>
+<a href="https://github.com/3bHussein?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-Source_Code-344f60?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse actual public repositories"/></a>
 
-<sub>Activity widgets depend on third-party services. GitHub's native contribution graph is available on the profile Overview page.</sub>
+<sub>The official GitHub contribution calendar updates automatically on the profile Overview page.</sub>
 
 </div>
 
