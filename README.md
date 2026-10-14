@@ -15,6 +15,12 @@
 <td width="25%" align="center"><b>↗ Always Learning</b><br/><sub>Practical engineering</sub></td>
 </tr></table>
 
+<div align="center">
+
+[**Projects**](#-featured-projects) · [**Tech Stack**](#%EF%B8%8F-tech-stack) · [**GitHub Activity**](#-github-activity) · [**About**](#-about-me)
+
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
