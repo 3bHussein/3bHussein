@@ -1,123 +1,124 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm El-Hussein , a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
-  
-<a href="./ELHussein Badawy.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
+<img src="./assets/profile-banner-v3.svg" alt="El-Hussein Badawy — Full-Stack Developer, Product Engineering and Automation" width="100%"/>
 
-  
-- 🌱 I’m currently learning Machine Learning   
-  
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3bHussein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhusseinahmed)
+[![Dev.to](https://img.shields.io/badge/DEV.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/3bhussein)
 
-- ❓ Ask me about anything related to Tech stack and related technologies  
-
--  A Codewarrior [![Codewars Badge](https://www.codewars.com/users/3bHussein/badges/micro)](https://www.codewars.com/users/3bHussein)
- 
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+<div align="center">
 
+### Turning ideas into working products.
 
+**BUILD** &nbsp; / &nbsp; **SOLVE** &nbsp; / &nbsp; **AUTOMATE** &nbsp; / &nbsp; **SHIP**
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<sub>Product engineering · Web applications · Developer tools · Practical automation</sub>
+
 </div>
 
-</td><td valign="top" width="33%">
+<div align="center">
 
+[**Projects**](#featured-projects) · [**Tech Stack**](#tech-stack) · [**GitHub Activity**](#github-activity) · [**About**](#about-me)
 
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+<a id="featured-projects"></a>
 
-<br/>  
+## 🚀 Featured Projects
 
+<sub>Selected work — each card links to a real repository.</sub>
 
-## Connect with me  
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/ProgressX"><img src="./assets/card-progressx.svg?v=7" width="100%" alt="ProgressX project illustration"/></a>
+<p><strong>ProgressX</strong></p>
+<p><sub>Fitness tracking · Nutrition · Personal analytics</sub></p>
+<p><a href="https://github.com/3bHussein/ProgressX">Repository ↗</a></p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/Project-Factory-AI"><img src="./assets/card-factory.svg?v=7" width="100%" alt="Project Factory AI project illustration"/></a>
+<p><strong>Project Factory AI</strong></p>
+<p><sub>Project workflows · AI-assisted building</sub></p>
+<p><a href="https://github.com/3bHussein/Project-Factory-AI">Repository ↗</a> &nbsp;·&nbsp; <a href="https://3bhussein.github.io/Project-Factory-AI/builder.html">Live demo ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/vin-decoder-pro"><img src="./assets/card-vin-decoder.svg?v=7" width="100%" alt="VIN Decoder Pro project illustration"/></a>
+<p><strong>VIN Decoder Pro</strong></p>
+<p><sub>Automotive tools · Vehicle identification</sub></p>
+<p><a href="https://github.com/3bHussein/vin-decoder-pro">Repository ↗</a></p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux"><img src="./assets/card-kali.svg?v=7" width="100%" alt="Kali Ops V1 project illustration"/></a>
+<p><strong>Kali Ops V1</strong></p>
+<p><sub>Linux tooling · Terminal dashboards</sub></p>
+<p><a href="https://github.com/3bHussein/Cinematic-terminal-command-center-for-Kali-Linux">Repository ↗</a></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+
+- [3B Nexosuite](https://github.com/3bHussein/3B-nexosuite) — commerce and ERP workflows
+- [Automax Academy](https://github.com/3bHussein/Automax-Academy) — training and community portal
+- [Bil Hana](https://github.com/3bHussein/Bil_Hana) — bilingual Egyptian recipes
+
+</details>
+
+<a id="tech-stack"></a>
+
+## 🛠️ Tech Stack
+
+<sub>A practical toolkit for building, connecting and shipping software.</sub>
+
+<p><strong>FRONTEND</strong> <sub>— Interfaces & experiences</sub></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="36" height="36"/></p>
+
+<p><strong>BACKEND</strong> <sub>— Logic & integrations</sub></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/></p>
+
+<p><strong>DEVOPS & TOOLS</strong> <sub>— Systems & delivery</sub></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="36" height="36"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="36" height="36"/></p>
+
+<sub>Tool icons by Devicon · Core technologies from my original profile</sub>
+
+<a id="github-activity"></a>
+
+## 📊 GitHub Activity
+
+<sub>Public development activity. The official GitHub profile remains the source of truth.</sub>
+
 <div align="center">
-<a href="https://github.com/3bhussein" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/elhusseinahmed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/3bhussein" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<a href="https://github.com/3bHussein?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3bHussein&amp;theme=github_dark" alt="GitHub activity from public contributions, dark theme (external service)" width="96%"/></a>
 
+<a href="https://github.com/3bHussein?tab=overview"><strong>View live activity on GitHub ↗</strong></a>
 
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=3bHussein&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=3bHussein&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=3bHussein&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+<a id="about-me"></a>
 
-https://github-readme-stats.vercel.app/api/wakatime
-<br/>  
+## 👋 About Me
 
+I’m El-Hussein, a full-stack developer and product-minded engineer. I enjoy turning complicated workflows into straightforward, useful tools — from web applications and integrations to automation and Linux utilities.
 
-## Recent Blog Posts  
-  
+**What I focus on:** Practical products · Clean integrations · Automation · Continuous improvement
 
-<br/>  
-
-  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=3bhussein&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+### Have an idea worth building?
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/3bhussein" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+I enjoy collaborating on practical software, useful tools and automation projects.
 
+[**Explore repositories ↗**](https://github.com/3bHussein?tab=repositories) &nbsp;·&nbsp; [**Connect on LinkedIn ↗**](https://linkedin.com/in/elhusseinahmed)
 
+<sub>EL-HUSSEIN BADAWY &nbsp; / &nbsp; BUILD WITH PURPOSE</sub>
+
+</div>
