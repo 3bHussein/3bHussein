@@ -12,9 +12,11 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 </div>
 
-## ⚡ Build · Solve · Automate · Repeat
+<div align="center">
 
-<table><tr><td align="center">⌘<br/><b>Clean code</b><br/>Maintainable solutions</td><td align="center">◈<br/><b>Real projects</b><br/>From ideas to products</td><td align="center">⚙<br/><b>Automation</b><br/>Smarter workflows</td><td align="center">↗<br/><b>Always learning</b><br/>Practical experiments</td></tr></table>
+**BUILD** &nbsp; • &nbsp; **SOLVE** &nbsp; • &nbsp; **AUTOMATE** &nbsp; • &nbsp; **REPEAT**
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -54,11 +56,11 @@ Building practical software, intelligent workflows and tools that solve real pro
 
 </details>
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
 <img src="./assets/tech-stack.svg" alt="Frontend, Backend and DevOps technology cards" width="100%"/>
 
-<sub>Frontend: Bootstrap, HTML5, CSS3, JavaScript, Photoshop · Backend: JavaScript, PHP, Python, C# · DevOps & tools: Linux, Git, Bash, AWS, Google Cloud.</sub>
+
 
 ## 📊 GitHub activity
 
